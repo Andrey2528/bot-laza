@@ -14,7 +14,8 @@ sequelize.sync()
 const admins = [
   'anastasia_hryn',
   'aprioricool',
-  'KseniaLaza'
+  'KseniaLaza',
+  'sdcgba'
 ]
 
 bot.on('message', msg => {

@@ -9,7 +9,7 @@
     "tunnel": "cloudflared tunnel --url http://localhost:3000"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.0.1"
   },
   "dependencies": {
     "telebot": "^1.4.1",
